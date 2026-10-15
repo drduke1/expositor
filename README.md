@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en" class="dark scroll-smooth">
 <head>
   <meta charset="UTF-8">
@@ -61,15 +62,15 @@
         <span class="text-emerald-400">●</span>
         <span>Staff Technical Writer</span>
         <span class="text-slate-600">|</span>
-        <span class="text-slate-400">Taking on 1–2 small projects per month</span>
+        <span class="text-slate-400">Taking on 1–2 projects per month</span>
       </div>
 
       <h1 class="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
-        Clear, accurate technical documentation for <span class="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">complex engineering systems</span> & <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400">AI search</span>.
+        Clear, precise documentation for <span class="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">complex engineering</span> & <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400">AI search</span>.
       </h1>
 
       <p class="text-slate-300 text-base sm:text-lg leading-relaxed max-w-3xl">
-        I’m a Staff Technical Writer specializing in observability, cybersecurity, telemetry data pipelines, and developer tooling. I help tech companies document new releases, build clean doc suites from scratch, and structure technical content for both human engineers and LLM retrieval (RAG) systems.
+        I’m a Staff Technical Writer specializing in observability, cybersecurity, and developer tooling. I help teams document new releases, build clean doc suites from scratch, and structure technical content for both human engineers and LLMs.
       </p>
 
       <div class="pt-2 flex flex-wrap gap-3 text-xs sm:text-sm font-mono text-slate-300">
@@ -94,16 +95,16 @@
     <section id="expertise" class="space-y-6">
       <div>
         <h2 class="text-xs font-mono uppercase tracking-wider text-emerald-400 font-semibold mb-1">Domain Focus</h2>
-        <h3 class="text-2xl font-bold text-white">Areas of Technical Expertise</h3>
+        <h3 class="text-2xl font-bold text-white">Areas of Expertise</h3>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <!-- Card 1 -->
         <div class="p-6 rounded-xl bg-slate-900/50 border border-slate-800/90 hover:border-emerald-500/40 transition-all duration-200 space-y-2 group">
-          <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">01. Observability & Telemetry Pipelines</div>
-          <h4 class="text-white font-semibold text-base group-hover:text-emerald-300 transition-colors">Logs, Metrics, Traces & SIEM Data</h4>
+          <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">01. Observability & Telemetry</div>
+          <h4 class="text-white font-semibold text-base group-hover:text-emerald-300 transition-colors">Logs, Metrics, Traces & SIEM</h4>
           <p class="text-slate-400 text-sm leading-relaxed">
-            Documenting complex data routing engines, telemetry processors, log transformers, OpenTelemetry setups, and enterprise SIEM ingest pipelines.
+            Documenting data routing engines, OpenTelemetry setups, log transformers, and enterprise SIEM ingest pipelines.
           </p>
         </div>
 
@@ -112,7 +113,7 @@
           <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">02. Cybersecurity & Threat Intel</div>
           <h4 class="text-white font-semibold text-base group-hover:text-emerald-300 transition-colors">SecOps, Rules & Agent Deployments</h4>
           <p class="text-slate-400 text-sm leading-relaxed">
-            Structuring clear guides for threat detection rule formats, endpoint security agent configurations, vulnerability scanning, and incident workflows.
+            Structuring threat detection rules, endpoint security agent configurations, vulnerability scanning, and incident workflows.
           </p>
         </div>
 
@@ -121,21 +122,20 @@
           <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">03. Developer Experience & APIs</div>
           <h4 class="text-white font-semibold text-base group-hover:text-emerald-300 transition-colors">REST APIs, SDKs & Quickstarts</h4>
           <p class="text-slate-400 text-sm leading-relaxed">
-            Designing quickstarts that work on the first try, authentication guides, SDK documentation, and OpenAPI specs that reduce time-to-hello-world.
+            Designing frictionless quickstarts, authentication guides, SDK documentation, and clear OpenAPI specs.
           </p>
         </div>
 
         <!-- Card 4 -->
         <div class="p-6 rounded-xl bg-slate-900/50 border border-slate-800/90 hover:border-emerald-500/40 transition-all duration-200 space-y-2 group">
-          <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">04. AI-Ready Docs & Context Engineering</div>
+          <div class="text-emerald-400 font-mono text-xs font-semibold uppercase tracking-wider">04. AI-Ready Content Architecture</div>
           <h4 class="text-white font-semibold text-base group-hover:text-emerald-300 transition-colors">RAG Optimization & Semantic Schemas</h4>
           <p class="text-slate-400 text-sm leading-relaxed">
-            Structuring Markdown taxonomy, semantic headings, metadata schemas, and explicit context so LLMs and retrieval agents query your docs without hallucinating.
+            Building Markdown taxonomies, semantic headings, and metadata schemas so LLMs query your docs without hallucinating.
           </p>
         </div>
       </div>
     </section>
-
     <hr class="border-slate-800/80">
 
     <!-- Interactive Sample Work / Code Refactoring -->
@@ -143,13 +143,13 @@
       <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
         <div>
           <h2 class="text-xs font-mono uppercase tracking-wider text-emerald-400 font-semibold mb-1">Interactive Transformation</h2>
-          <h3 class="text-2xl font-bold text-white">Before & After Doc Refactor</h3>
+          <h3 class="text-2xl font-bold text-white">Before & After Refactor</h3>
         </div>
         <p class="text-xs text-slate-400 font-mono">Toggle options below to inspect changes</p>
       </div>
 
       <p class="text-slate-300 text-sm leading-relaxed">
-        Wall-of-text documentation leads to high ticket volumes and fails RAG chunking algorithms. See how raw, ambiguous developer notes get transformed into structured, human-friendly, and LLM-ready technical documentation:
+        Wall-of-text documentation drives up support tickets and fails RAG chunking algorithms. See how ambiguous developer notes transform into structured, AI-ready technical documentation:
       </p>
 
       <!-- Toggle Container -->
@@ -158,15 +158,15 @@
         <div class="flex flex-wrap border-b border-slate-800 bg-slate-950/80 p-2 gap-2 text-xs font-mono">
           <button id="tab-btn-before" onclick="setDocTab('before')" class="px-3.5 py-1.5 rounded-md font-medium bg-red-500/20 border border-red-500/40 text-red-300 transition-all flex items-center space-x-1.5">
             <span class="w-2 h-2 rounded-full bg-red-400"></span>
-            <span>Legacy / Raw Notes</span>
+            <span>Raw Notes</span>
           </button>
           <button id="tab-btn-after" onclick="setDocTab('after')" class="px-3.5 py-1.5 rounded-md font-medium text-slate-400 hover:text-white transition-all flex items-center space-x-1.5">
             <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
-            <span>Refactored & AI-Ready</span>
+            <span>AI-Ready Output</span>
           </button>
           <button id="tab-btn-diff" onclick="setDocTab('diff')" class="px-3.5 py-1.5 rounded-md font-medium text-slate-400 hover:text-white transition-all hidden sm:flex items-center space-x-1.5">
             <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
-            <span>Side-by-Side Comparison</span>
+            <span>Side-by-Side</span>
           </button>
         </div>
 
@@ -176,7 +176,7 @@
           <div id="content-before" class="space-y-3">
             <div class="flex items-center space-x-2 text-red-400 text-[11px] font-semibold uppercase tracking-wider bg-red-950/40 px-3 py-1.5 rounded border border-red-900/40">
               <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
-              <span>Issues: Ambiguous prerequisites, unformatted command, no metadata, breaks RAG ingestion</span>
+              <span>Issues: Ambiguous prerequisites, unformatted commands, lacks metadata, breaks RAG ingestion</span>
             </div>
             <pre class="bg-slate-950 p-4 rounded-lg border border-red-900/30 text-slate-300 whitespace-pre-wrap leading-6">
 # Setting up the Security Collector
@@ -189,7 +189,7 @@ To set up the collector on your Linux box, you need to first make sure you have 
           <div id="content-after" class="hidden space-y-3">
             <div class="flex items-center space-x-2 text-emerald-400 text-[11px] font-semibold uppercase tracking-wider bg-emerald-950/40 px-3 py-1.5 rounded border border-emerald-900/40">
               <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-              <span>Improvements: Frontmatter YAML metadata, explicit prerequisites, copyable code, verified flags</span>
+              <span>Fixes: YAML frontmatter, explicit prerequisites, copyable codeblocks, verified flags</span>
             </div>
             <pre class="bg-slate-950 p-4 rounded-lg border border-emerald-900/30 text-emerald-100 whitespace-pre-wrap leading-6">
 <span class="text-slate-500">---
@@ -217,7 +217,7 @@ Install and start the security collector agent to forward telemetry logs to the 
 
 2. Execute the setup script with your API Key and target environment:
    ```bash
-   sudo ./install.sh --key <YOUR_ORGANIZATION_API_KEY> --env prod
+   sudo ./install.sh --key &lt;YOUR_ORGANIZATION_API_KEY&gt; --env prod
    ```
 
 <span class="text-emerald-300">## Verification</span>
@@ -232,7 +232,7 @@ systemctl status security-collector
         <!-- Side-by-Side View -->
         <div id="view-diff" class="hidden p-5 grid grid-cols-1 md:grid-cols-2 gap-4 font-mono text-xs leading-relaxed">
           <div class="space-y-2">
-            <div class="text-red-400 text-[10px] font-semibold uppercase tracking-wider">Raw Unstructured Text</div>
+            <div class="text-red-400 text-[10px] font-semibold uppercase tracking-wider">Raw Text</div>
             <pre class="bg-slate-950 p-3.5 rounded-lg border border-red-900/30 text-slate-400 whitespace-pre-wrap leading-5 h-full">
 # Setting up the Security Collector
 
@@ -240,7 +240,7 @@ To set up the collector on your Linux box, you need to first make sure you have 
             </pre>
           </div>
           <div class="space-y-2">
-            <div class="text-emerald-400 text-[10px] font-semibold uppercase tracking-wider">Refactored & RAG-Ready</div>
+            <div class="text-emerald-400 text-[10px] font-semibold uppercase tracking-wider">RAG-Ready Output</div>
             <pre class="bg-slate-950 p-3.5 rounded-lg border border-emerald-900/30 text-emerald-100 whitespace-pre-wrap leading-5 h-full">
 # Install Security Collector
 
@@ -251,7 +251,7 @@ To set up the collector on your Linux box, you need to first make sure you have 
 ## Installation
 ```bash
 curl -sSL https://releases.security.domain.com/collector.tar.gz | tar -xz
-sudo ./install.sh --key <YOUR_KEY> --env prod
+sudo ./install.sh --key &lt;YOUR_KEY&gt; --env prod
 ```
             </pre>
           </div>
@@ -274,9 +274,9 @@ sudo ./install.sh --key <YOUR_KEY> --env prod
         <div class="p-6 rounded-xl bg-slate-900/60 border border-slate-800 hover:border-slate-700 transition-all space-y-4 flex flex-col justify-between">
           <div class="space-y-2">
             <div class="text-xs font-mono text-cyan-400 font-semibold uppercase tracking-wider">Scope 01</div>
-            <h4 class="text-white font-semibold text-lg">Incremental Doc Builds</h4>
+            <h4 class="text-white font-semibold text-lg">Incremental Updates</h4>
             <p class="text-slate-400 text-xs leading-relaxed">
-              Iterative documentation writing for new feature releases, individual system modules, or targeted product updates without requiring full-time hire commitments.
+              Iterative documentation for new feature releases, individual system modules, or targeted updates without requiring a full-time commitment.
             </p>
           </div>
           <div class="text-xs font-mono text-slate-400 pt-3 border-t border-slate-800/80 flex items-center space-x-1">
@@ -291,12 +291,12 @@ sudo ./install.sh --key <YOUR_KEY> --env prod
             <div class="text-xs font-mono text-emerald-400 font-semibold uppercase tracking-wider">Scope 02</div>
             <h4 class="text-white font-semibold text-lg">Ground-Up Doc Suites</h4>
             <p class="text-slate-400 text-xs leading-relaxed">
-              Building clean, well-organized documentation hubs from scratch for early-stage products, small teams, or newly launched engineering tools.
+              Clean, well-organized documentation hubs built from scratch for early-stage products, small teams, or newly launched engineering tools.
             </p>
           </div>
           <div class="text-xs font-mono text-slate-400 pt-3 border-t border-slate-800/80 flex items-center space-x-1">
             <span class="text-emerald-400">►</span>
-            <span>Complete Architecture & Setup</span>
+            <span>Complete Architecture Setup</span>
           </div>
         </div>
 
@@ -304,14 +304,14 @@ sudo ./install.sh --key <YOUR_KEY> --env prod
         <div class="p-6 rounded-xl bg-slate-900/60 border border-slate-800 hover:border-slate-700 transition-all space-y-4 flex flex-col justify-between">
           <div class="space-y-2">
             <div class="text-xs font-mono text-blue-400 font-semibold uppercase tracking-wider">Scope 03</div>
-            <h4 class="text-white font-semibold text-lg">AI-Readability & Structure Sweeps</h4>
+            <h4 class="text-white font-semibold text-lg">AI & RAG Optimization</h4>
             <p class="text-slate-400 text-xs leading-relaxed">
-              Restructuring your existing documentation taxonomy, section chunking, headings, and code metadata so LLM assistants parse and answer questions correctly.
+              Restructuring your documentation taxonomy, section chunking, headings, and metadata to ensure LLMs parse and answer queries correctly.
             </p>
           </div>
           <div class="text-xs font-mono text-slate-400 pt-3 border-t border-slate-800/80 flex items-center space-x-1">
             <span class="text-emerald-400">►</span>
-            <span>RAG-Optimized Doc Ecosystem</span>
+            <span>RAG-Optimized Ecosystem</span>
           </div>
         </div>
       </div>
@@ -324,19 +324,19 @@ sudo ./install.sh --key <YOUR_KEY> --env prod
       <div class="inline-block px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 font-mono text-xs">
         Limited Bandwidth Available
       </div>
-      <h3 class="text-2xl sm:text-3xl font-bold text-white">Have a documentation project in mind?</h3>
+      <h3 class="text-2xl sm:text-3xl font-bold text-white">Have a project in mind?</h3>
       <p class="text-slate-300 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
-        Send me a note with a link to your docs or repository. I’ll take a look and let you know if it’s a good fit for a short-term contract.
+        Send a link to your docs or repository. I’ll review it and let you know if it’s a good fit for a short-term contract.
       </p>
 
       <div class="pt-2 flex flex-col sm:flex-row justify-center items-center gap-3">
         <a href="mailto:consulting@doc-consultant.io" class="w-full sm:w-auto px-6 py-3 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-semibold text-sm transition-all shadow-lg shadow-emerald-500/20">
-          Send An Email
+          Send an Email
         </a>
       </div>
 
       <p class="text-xs font-mono text-slate-500 pt-2">
-        Taking on 1–2 small contract projects per month. Fast async responses.
+        Taking on 1–2 small projects per month. Fast, async communication.
       </p>
     </section>
 
@@ -388,4 +388,3 @@ sudo ./install.sh --key <YOUR_KEY> --env prod
   </script>
 </body>
 </html>
-```
