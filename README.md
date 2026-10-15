@@ -43,7 +43,7 @@
     <div class="max-w-4xl mx-auto px-6 h-16 flex items-center justify-between">
       <a href="#" class="flex items-center space-x-3 group">
         <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse group-hover:scale-125 transition-transform"></span>
-        <span class="font-mono text-sm font-semibold tracking-tight text-slate-200 group-hover:text-emerald-400 transition-colors">doc-consultant.io</span>
+        <span class="font-mono text-sm font-semibold tracking-tight text-slate-200 group-hover:text-emerald-400 transition-colors">Expositor</span>
       </a>
       <nav class="flex items-center space-x-4 sm:space-x-6 text-xs sm:text-sm font-medium">
         <a href="#expertise" class="text-slate-400 hover:text-emerald-400 transition-colors">Domain Focus</a>
