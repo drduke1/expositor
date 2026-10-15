@@ -58,12 +58,6 @@
 
     <!-- Hero Section -->
     <section class="space-y-6 pt-2">
-      <div class="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs font-mono text-slate-300">
-        <span class="text-emerald-400">●</span>
-        <span>Staff Technical Writer</span>
-        <span class="text-slate-600">|</span>
-        <span class="text-slate-400">Taking on 1–2 projects per month</span>
-      </div>
 
       <h1 class="text-3xl sm:text-5xl font-extrabold tracking-tight text-white leading-tight">
         Clear, precise documentation for <span class="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">complex engineering</span> & <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-400">AI search</span>.
@@ -344,7 +338,7 @@ sudo ./install.sh --key &lt;YOUR_KEY&gt; --env prod
 
   <footer class="border-t border-slate-800/80 py-8 bg-slate-950 text-xs text-slate-500">
     <div class="max-w-4xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3 font-mono">
-      <div>© doc-consultant.io | Independent Technical Writing</div>
+      <div>Independent Technical Writing</div>
       <div>Minimalist GitHub Pages Portfolio</div>
     </div>
   </footer>
