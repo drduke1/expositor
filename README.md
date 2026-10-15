@@ -324,8 +324,8 @@ sudo ./install.sh --key &lt;YOUR_KEY&gt; --env prod
       </p>
 
       <div class="pt-2 flex flex-col sm:flex-row justify-center items-center gap-3">
-        <a href="mailto:consulting@doc-consultant.io" class="w-full sm:w-auto px-6 py-3 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-semibold text-sm transition-all shadow-lg shadow-emerald-500/20">
-          Send an Email
+        <a href="mailto:comingsoon" class="w-full sm:w-auto px-6 py-3 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-semibold text-sm transition-all shadow-lg shadow-emerald-500/20">
+          Coming Soon Send an Email
         </a>
       </div>
 
