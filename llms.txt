@@ -1,0 +1,21 @@
+# Expositor
+
+> Independent technical writing consulting for complex engineering systems and AI search.
+
+## Summary
+Marketing site and service offerings for an independent Staff Technical Writer specializing in observability, cybersecurity, and developer tooling. Available for short-term and fixed-scope contract projects with zero onboarding overhead.
+
+## Domain Expertise
+- **Observability & Telemetry:** Logs, metrics, traces, SIEM, data routing engines, OpenTelemetry setups, and log transformers.
+- **Cybersecurity & Threat Intel:** SecOps, threat detection rules, endpoint security agent configurations, vulnerability scanning, and incident workflows.
+- **Developer Experience & APIs:** REST APIs, SDKs, quickstarts, authentication guides, and OpenAPI specs.
+- **AI-Ready Content Architecture:** RAG optimization, semantic schemas, and Markdown taxonomies to ensure LLMs query docs without hallucinating.
+
+## Engagement Models
+- **Incremental Updates:** Modular Markdown deliverables for new feature releases, individual system modules, or targeted updates without a full-time commitment.
+- **Ground-Up Doc Suites:** Complete architecture setup and clean, organized documentation hubs built from scratch for early-stage products and new engineering tools.
+- **AI & RAG Optimization:** Restructuring existing documentation taxonomy, section chunking, headings, and metadata to ensure LLMs parse and answer queries correctly.
+
+## Contact Information
+- **Email:** drduke1@gmail.com
+- **Availability:** Fast, async communication.
