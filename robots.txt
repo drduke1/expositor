@@ -1,0 +1,4 @@
+# https://drduke1.github.io/expositor/
+
+User-agent: *
+Allow: /
